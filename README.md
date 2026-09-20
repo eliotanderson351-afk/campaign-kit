@@ -1,16 +1,20 @@
 # Campaign Kit
 
-A browser-only UTM campaign builder for marketers, freelancers, agencies, and small teams.
-
-## MVP
-- Build UTM links with validation
-- Copy final URL
-- Save recent campaigns in LocalStorage
-- Generate a clean campaign card
-- No account or server required
-
-## Monetization experiment
-Free builder first; paid hosted workspaces, saved team libraries, campaign naming rules, and analytics integrations later.
+A browser-first UTM campaign link builder with presets, validation and local history.
 
 ## Run
-Open `index.html` in a browser.
+
+Open `index.html` in a modern browser.
+
+## Donation
+
+Donations are optional and help fund design, testing, hosting and future improvements.
+
+| Network | Wallet |
+| --- | --- |
+| BTC | `bc1qghmvawynutlxlzs7hcszwrpmv6a8gjz0g42m5f` |
+| ETH — Ethereum | `0xB2C155514AD2c1383346715B92FcF123A1E1CA3f` |
+| USDT — TRC20 | `TLTPdYMeRfJgaTtVXcpFTF7m5vjJDXp1Uq` |
+| SOL — Solana | `iCi28FGDExvy8tuHw2MP63w26A3uQYHSD1vVqwUjkBg` |
+
+Always verify the asset and network before sending.
